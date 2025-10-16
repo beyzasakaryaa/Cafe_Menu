@@ -19,5 +19,5 @@ No additional setup is required.
 
 This project is for educational purposes.
 
-[Cafe Menu Screenshot]()
+[Cafe Menu Screenshot](screenshot.png)
 
